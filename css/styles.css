@@ -1,4 +1,4 @@
-#me {
+.imgs{
   margin: 10%;
   width: 80%;
   height: auto;
@@ -6,4 +6,16 @@
 
 #about-me {
   text-align: center;
+}
+
+.row {
+  border: 2px solid black;
+}
+
+.col-6 {
+  border: 2px solid black;
+}
+
+.bold-text {
+  font-weight: bold;
 }
