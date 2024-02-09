@@ -17,7 +17,7 @@ A basic static website about me
 
 * Clone the repo
 * Run index.html
-
+* or can be found at https://bobcat673.github.io/Portfolio-Website/
 ## Known Bugs
 
 * None
