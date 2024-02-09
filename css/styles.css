@@ -4,11 +4,8 @@
   height: auto;
 }
 
-#about-me {
-  text-align: center;
-}
-
 .row {
+  background-color: white;
   border: 2px solid black;
 }
 
@@ -18,4 +15,8 @@
 
 .bold-text {
   font-weight: bold;
+}
+
+body {
+  background-color: black;
 }
